@@ -8,8 +8,8 @@
 - 支持 ARM64/ARM 架构
 - 内置 GitHub 镜像加速（自动测速选择最优节点）
 - 支持 Docker / 独立安装
-- Agent 版本固定：v0.16.11
-- Dashboard 版本：v0.16.26
+- Agent 版本固定：v0.20.5
+- Dashboard 版本：v0.20.13
 
 ## 快速开始
 
